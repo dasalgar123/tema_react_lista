@@ -1,0 +1,23 @@
+.btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .btn.red { background-color: red; color: white; }
+  .btn.black { background-color: black; color: white; }
+  .btn.darkblue { background-color: darkblue; color: white;}
+  .btn.green { background-color: green; color: white; }
+  .btn.aqua { background-color: aqua; color: white; }
+  .btn.yellow { background-color:yellow; color: white; }
+  .btn.yellowgreen { background-color: yellowgreen; color: white; }
+
+  .btn.red:hover{background-color: white; color: red; border: 2px solid red;}
+  .btn.black:hover { background-color: white; color: black; border: 2px solid black;}
+  .btn.darkblue:hover {background-color: white; color: darkblue; border: 2px solid darkblue; }
+  .btn.green:hover { background-color: white; color: green; border: 2px solid green;}
+  .btn.aqua:hover { background-color: white; color: aqua; border: 2px solid aqua; }
+  .btn.yellow:hover { background-color: white; color: yellow; border: 2px solid yellow; }
+  .btn.yellowgreen:hover { background-color: white; color: yellowgreen; border: 2px solid yellowgreen; }
